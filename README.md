@@ -16,6 +16,8 @@ This Excel dashboard helps monitor product inventory levels, calculate stock val
 - Visual breakdown of stock by category
 - Easy-to-navigate layout for non-technical users
 
+🔗 https://docs.google.com/spreadsheets/d/1A_BHslQ2hmok7qLsRsVrjzeNjB19L_egBUAZWalwBaU/edit#gid=0
+
 ## 🖼️ Screenshot
 ![Screenshot 2025-05-20 at 9 34 02 PM](https://github.com/user-attachments/assets/dfc8ad9e-a0f9-4e8f-bf73-c1c9113a3b14)
 
